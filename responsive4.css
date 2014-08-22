@@ -34,7 +34,9 @@ padding:4px;
 margin:4px;
 }
 
-p {padding:10px;}
+p {
+font-size:1em;
+padding:19px 0px;}
 
 a:link {
     color: gray;
